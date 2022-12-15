@@ -1,26 +1,26 @@
 <link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>/* ҳ����ͷͼ͸�� */
 #footer {
-    background: transparent !important;
-  }
-  #page-header {
-    background: transparent !important;
-  }
-  
-  /* ����ģʽ����͸�� */
-  #footer::before {
-    background: transparent !important;
-  }
-  #page-header::before {
-    background: transparent !important;
-  }
-  
-  /* ҹ��ģʽ����͸�� */
-  [data-theme="dark"] #footer::before {
-    background: transparent !important;
-  }
-  [data-theme="dark"] #page-header::before {
-    background: transparent !important;
-  }
+  background: transparent !important;
+}
+#page-header {
+  background: transparent !important;
+}
+
+/* ����ģʽ����͸�� */
+#footer::before {
+  background: transparent !important;
+}
+#page-header::before {
+  background: transparent !important;
+}
+
+/* ҹ��ģʽ����͸�� */
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+}
 
 
 /* �����������Ϣ��Ƭ��̬����ɫ */
