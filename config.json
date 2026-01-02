@@ -4,6 +4,6 @@
     "avatarUrl":"https://img.cdn1.vip/i/6957b59bbdcdb_1767355803.webp",
     "GMEEK_VERSION":"last",
     "needComment":1,
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "startSite":"10/4/2025"
 }
